@@ -11,7 +11,7 @@
       "border-bottom-left-radius",
       "transition"
     ],
-    "function-blacklist": ["calc"],
+    "function-blacklist": ["calc", "lighten", "darken"],
     "scss/dollar-variable-default": [
       true,
       {
